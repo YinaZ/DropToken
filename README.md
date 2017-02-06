@@ -1,5 +1,5 @@
 # DropToken
-This program is written in Python and tested with Python2.7. Please make sure you have Python2.7 installed on your machine before executing the program. Please follow this [installation guide](https://wiki.python.org/moin/BeginnersGuide/Download) if you do not have Python2.7 installed yet.
+This program is written and tested with Python2.7. Please make sure you have Python2.7 installed on your machine before executing the program. Please follow this [installation guide](https://wiki.python.org/moin/BeginnersGuide/Download) if you do not have Python2.7 installed yet.
 
 ## How to play the game with command line:
 ```
